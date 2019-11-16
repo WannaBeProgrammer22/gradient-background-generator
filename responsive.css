@@ -1,0 +1,13 @@
+@media only screen and (max-width: 768px) {
+  h1{
+    font: 600 2rem 'Raleway', sans-serif;
+  }
+
+}
+
+@media only screen and (max-width: 480px) {
+  h1{
+    font-size: 2rem;;
+  }
+
+}
